@@ -78,34 +78,6 @@ $ g++ -std=c++17 -Wall TDrive.cpp -o tdrive -ls2
 $ g++ -std=c++17 -Wall DSSN.cpp -o dssn -ls2
 ```
 
-## Evaluation
-
-### Main Results
-
-#### Standard TS Generation
-
-<p align="center">
-  <b>Table 1</b>: Results of 24-length Time-series Generation.
-  <br>
-  <img src="figures/fig2.jpg" alt="">
-</p>
-
-#### Long-term TS Generation
-
-<p align="center">
-  <b>Table 2</b>: Results of Long-term Time-series Generation.
-  <br>
-  <img src="figures/fig3.jpg" alt="">
-</p>
-
-#### Conditional TS Generation
-
-<p align="center">
-  <img src="figures/fig4.jpg" alt="">
-  <br>
-  <b>Figure 2</b>: Visualizations of Time-series Imputation and Forecasting.
-</p>
-
 ## ✍️ Authors
 
 - Paper Authors : Jooyoung Yoon, Yusu Noh, Byungchul Tak, Young-Kyoon Suh
