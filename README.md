@@ -56,7 +56,7 @@ unsigned long long encoded_spat = tst.space_encoder(39.921, 116.511);
 tst.Delete(encoded_temp, encoded_spat, val);
 ```
 
-### Searching
+### Search
 
 ```c++
 vector<ValueType> result;
